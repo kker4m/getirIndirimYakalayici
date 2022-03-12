@@ -3,7 +3,7 @@
 
 Python scripti önce klasörde bir data oluşturuyor ve sonrasında giriş yapılması takdirinde tekrar şifre sorma işlemini ortadan kaldırıyor. Giriş sonrasında kampanyalar sayfasından indirim takibi yapılıyor ve indirim bulunması takdirinde belli bir frekansta ses çalınıyor. 30 Dakika içerisinde bir daha bulunan indirim yazılmıyor ve her beş dakika da bir yeni indirimler için sayfa yenileniyor.  
 
-Gerekli teknolojiler : 
+**Gerekli teknolojiler : ** 
 >BeautifulSoup
 selenium
 time
