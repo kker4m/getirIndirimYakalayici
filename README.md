@@ -3,8 +3,7 @@
 ### Proje Amaci;
  **Excel dropdownlari ile verilen filtreler araciligi ile ( il, konut tipi vs. ) excel makrolari ile cagirilan Python dosyalari, MySQLite Veritabanina tum sayfalarda ki her ilanlarin bilgisini kayit eder.**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aQltvRTGXYY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+[![Python sahibinden emlak extract data to MySQLite](https://img.youtube.com/vi/aQltvRTGXYY/0.jpg)](https://www.youtube.com/watch?v=aQltvRTGXYY)
 
 
 
