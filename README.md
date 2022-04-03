@@ -1,24 +1,19 @@
-# Python Emlak Sitesi Uzerinden Veri Cekme Scripti
+# Python Getir Uzerinden Indirim Yakalayan Python Scripti
  
 ### Proje Amaci;
- **Excel dropdownlari ile verilen filtreler araciligi ile ( il, konut tipi vs. ) excel makrolari ile cagirilan Python dosyalari, MySQLite Veritabanina tum sayfalarda ki her ilanlarin bilgisini kayit eder.**
-
-[![Python sahibinden emlak extract data to MySQLite](https://i.imgur.com/eVmT4nF.png)](https://www.youtube.com/watch?v=aQltvRTGXYY)
+ **Bazi zamanlarda ozel indirimler yollayan Getir internet sitesinden indirim geldiginde haberdar olmak icin olusturulmus Python Scripti
 
 
 
 #### Gerekli teknojiler ;
 
-	 Selenium, BeautifulSoup, Openpyxl, Xlsxwriter
+	 Selenium, BeautifulSoup, Tqdm
 
 #### Kullanmadan once ;
-
--Excel ayarlarindan gelisitirici arayuzunu aciktiktan sonra **.xlsm **uzantili excel dosyasini acip makro ayarlamalarindan scriptlerin lokasyonunu kendi cihaziniza gore girmeniz gerekiyor. ( ilanVeVeritabani.py konumu , FiltreleriCek konumu ve python.exe konumu )
 
 -Python'u yükledikten sonra terminali yönetici olarak çalıştırın ve indirdiğiniz klasörün içerisinde kodu çalıştırın ;
 
 	pip3 install -r requirements.txt
 
 
-### Not :
-Excel kullanmadan da Python dosyasini calistirarak gerekli ilanlari veri tabanina kayit ettirebilirsiniz, bunun icin hafif seviyede MySQLite ve selenium bilgisi yeterli olacaktir.
+
