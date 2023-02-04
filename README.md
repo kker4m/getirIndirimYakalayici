@@ -4,7 +4,7 @@
  5 Dakikada bir getirde herhangi bir indirim olup olmadigini kontrol eden Python scripti.
 <br>
 <img src = 'https://github.com/linuxkerem/python_getir_indirim_yakalayici/blob/main/images/example.png' alt = 'Example Work' width='350' align='left'/>
-<br>
+<br><br>
 #### Gerekli teknojiler ;
 
 	 selenium, undetected_chromedriver, webdriver-manager
