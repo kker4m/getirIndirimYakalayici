@@ -1,4 +1,4 @@
-# Python Getir Uzerinden Indirim Yakalayan Python Scripti
+# Getir Uzerinden Indirim Yakalayan Script
  
 ### Proje Amaci;
  5 Dakikada bir getirde herhangi bir indirim olup olmadigini kontrol eden Python scripti.
