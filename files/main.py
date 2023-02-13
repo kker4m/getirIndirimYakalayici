@@ -3,6 +3,8 @@ from callDrivers import *
 class Getir():
     def __init__(self):
         self.driver = callUcDriver(True,None)
+        print("Getir indirim yakalayici baslatiliyor.")
+        print("https://github.com/linuxkerem")
         self.duration = 1000  # milliseconds
         self.freq = 440  # Hz
         self.sleepTime = 300
